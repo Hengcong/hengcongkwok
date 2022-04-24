@@ -6,7 +6,7 @@ title: Hengcong Guo
 superuser: true
 
 # Role/position/tagline
-role: PhD student of Infrastructure and Environmental System
+role: PhD student of Infrastructure & Environmental System
 
 # Organizations/Affiliations to show in About widget
 organizations:
