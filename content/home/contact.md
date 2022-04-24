@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: ghc199300@gmail.com
+  phone: +1(980)3713170
   address:
     street: 450 Serra Mall
     city: Stanford
