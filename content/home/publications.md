@@ -17,10 +17,10 @@ content:
   filters:
     folders:
       - publication
-    tag: ''
+    tag: 'Deep Learning'
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: 'Journal'
+    author: 'Hengcong Guo'
     exclude_featured: false
     exclude_future: false
     exclude_past: false
