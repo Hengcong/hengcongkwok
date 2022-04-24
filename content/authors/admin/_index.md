@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hengcong Guo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student of Infrastructure and Environmental System
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of North Carolina at Charlotte
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,22 +18,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Connected & Automated Vehicles
+- Automation System
+- Motion Planning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD student in Infrastructure ans Environmental System
+    institution: University of North Carolina at Charlotte
+    year: 2022-present
+  - course: MEng in Transportation Engineering
+    institution: South China University of Technology
+    year: 2018-2021
+  - course: BSc in Automation
+    institution: South China University of Technology
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
