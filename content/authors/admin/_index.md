@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD student in Infrastructure ans Environmental System
+  - course: PhD student in Infrastructure & Environmental System
     institution: University of North Carolina at Charlotte
     year: 2022-present
-  - course: MEng in Transportation Engineering
+  - course: MEng in Communication and Transportation Engineering
     institution: South China University of Technology
     year: 2018-2021
   - course: BSc in Automation
